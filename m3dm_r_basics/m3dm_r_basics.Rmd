@@ -1,6 +1,6 @@
 ---
-title: "DCU R Tutorial 1"
-subtitle: "WaRm Up!"
+title: "M3DM R Tutorial 1"
+subtitle: "Based on DCU the WaRm Up! tutorial"
 author: "by Damien Dupré"
 output:
   learnr::tutorial:
@@ -49,7 +49,7 @@ leinster_df <- data.frame(
 ```
 
 ```{r img1, out.width = '30%'}
-knitr::include_graphics("http://hea.ie/assets/uploads/2017/04/DCU-1000x500.jpg")
+knitr::include_graphics("https://www.quotemaster.org/images/4d/4ddba5dfcaeb6bfcf0ac3da9a0f35585.png")
 ```
 
 ## Introduction
